@@ -1,3 +1,20 @@
 3-tool-combo-kit.txt
 Created Tue 14 Jan 2020 05:32:34 PM AKST
 Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Dewalt 3 Tool Combo Kit
+
+
+Purchased for the DCS355 oscillating tool for use on downstairs 
+bathroom sheetrock.
+
+model:   DCKSS344D2
+price:   ???
+
+Contains:
+   1x DCD771 variable speed drill
+   1x DCF885 sheetrock drill
+   1x DCS355 oscillating tool
+   2x low profile batteries (model ???)
+   1x Battery charging station (holds 1 battery) (model ???)
